@@ -1,0 +1,54 @@
+cls: Base1
+dit: 0
+noc: 2
+mif: 0.0
+mhf: 0.33
+aif: 0.0
+ahf: 0.33
+
+cls: Base2
+dit: 0
+noc: 0
+mif: 0
+mhf: 0
+aif: 0
+ahf: 0
+
+cls: A1
+dit: 1
+noc: 1
+mif: 0.25
+mhf: 0.5
+aif: 1.0
+ahf: 0
+
+cls: A2
+dit: 1
+noc: 0
+mif: 1.0
+mhf: 0
+aif: 1.0
+ahf: 0
+
+cls: B1
+dit: 2
+noc: 1
+mif: 1.0
+mhf: 0
+aif: 0.67
+ahf: 0.0
+
+cls: C1
+dit: 3
+noc: 0
+mif: 0.5
+mhf: 0.0
+aif: 1.0
+ahf: 0
+
+cls: --Total--
+mif: 0.5
+mhf: 0.25
+aif: 0.69
+ahf: 0.25
+
